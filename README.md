@@ -10,13 +10,6 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
- 
-<div id="greeting" align="center">
-  <h1>
-    hello
-    <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="30px"/>
-  </h1>
-</div>
   
 ### :man_technologist: Обо мне :
 Я начинающий android-разработчик из России, Архангельск. Успешно прошел программу профессиональной переподготовки в Нетологии <img src="https://u.netology.ngcdn.ru/tilda/uploads/images/color_big.svg" width="15">
