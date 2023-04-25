@@ -16,7 +16,14 @@
     hello
     <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="30px"/>
   </h1>
-</div>  
+</div>
+  
+### :man_technologist: Обо мне :
+Я начинающий android-разработчик из России, Архангельск. Успешно прошел программу профессиональной переподготовки в Нетологии <img src="https://u.netology.ngcdn.ru/tilda/uploads/images/color_big.svg" width="15">
+  
+## Компетенции
+  - описание компетенций.
+  
 <!--
 **aleldar89/aleldar89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
