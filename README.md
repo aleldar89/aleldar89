@@ -18,7 +18,10 @@
   - описание компетенций.
   
 ## Сертификаты нетологии
-  - описание компетенций.
+  - Java https://github.com/aleldar89/aleldar89/blob/master/java_basics.pdf
+  - Git https://github.com/aleldar89/aleldar89/blob/master/git_vcs.pdf
+  - Kotlin https://github.com/aleldar89/aleldar89/blob/master/kotlin_cert.pdf
+  - Android https://github.com/aleldar89/aleldar89/tree/master/android_cert
   
 <!--
 **aleldar89/aleldar89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
