@@ -17,6 +17,9 @@
 ## Компетенции
   - описание компетенций.
   
+## Сертификаты нетологии
+  - описание компетенций.
+  
 <!--
 **aleldar89/aleldar89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
