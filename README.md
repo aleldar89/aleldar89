@@ -12,10 +12,13 @@
 </div>
   
 ### :man_technologist: Обо мне :
-Я начинающий android-разработчик из России, Архангельск. Успешно прошел программу профессиональной переподготовки в Нетологии <img src="https://u.netology.ngcdn.ru/tilda/uploads/images/color_big.svg" width="15">
+Меня зовут Эльдар Алиев, начинающий android-разработчик. Успешно прошел программу профессиональной переподготовки в Нетологии <img src="https://u.netology.ngcdn.ru/tilda/uploads/images/color_big.svg" width="15">
   
 ## Компетенции
-  - описание компетенций.
+  - основы Java
+  - Kotlin - [репозиторий с дипломной работой](https://github.com/aleldar89/Diploma)
+  - Инструментарий: IntelliJ IDEA, Android Studio, Git, Github, Firebase
+
   
 ## Сертификаты нетологии
   - Java https://github.com/aleldar89/aleldar89/blob/master/java_basics.pdf
