@@ -6,10 +6,6 @@
   <a href="https://t.me/alel_arh">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
 </div>
-
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
   
 ### :man_technologist: Обо мне :
 Меня зовут Эльдар Алиев, начинающий android-разработчик. Успешно прошел программу профессиональной переподготовки в Нетологии <img src="https://u.netology.ngcdn.ru/tilda/uploads/images/color_big.svg" width="15">
