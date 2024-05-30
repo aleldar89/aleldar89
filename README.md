@@ -9,10 +9,15 @@
   
 ### :man_technologist: Обо мне :
 Меня зовут Эльдар Алиев, начинающий android-разработчик. Успешно прошел программу профессиональной переподготовки в Нетологии <img src="https://u.netology.ngcdn.ru/tilda/uploads/images/color_big.svg" width="15">
-  
+
+## Примеры проектов
+  - учебный мультимодульный проект с классической версткой XML - https://github.com/aleldar89/FlyApp
+  - учебный проект с использованием jetpack compose - https://github.com/aleldar89/TestFoodService
+  - дипломная работа - https://github.com/aleldar89/Diploma
+
 ## Компетенции
-  - основы Java
-  - Kotlin - [репозиторий с дипломной работой](https://github.com/aleldar89/Diploma)
+  - Kotlin, основы Java
+  - xml, jetpack compose, room, retrofit, dagger2, hilt, multi-module
   - Инструментарий: IntelliJ IDEA, Android Studio, Git, Github, Firebase
 
   
