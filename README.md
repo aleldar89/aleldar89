@@ -18,7 +18,7 @@
 ## Компетенции
   - Kotlin, основы Java
   - xml, jetpack compose, room, retrofit, dagger2, hilt, multi-module
-  - Инструментарий: IntelliJ IDEA, Android Studio, Git, Github, Firebase
+  - Инструментарий: IntelliJ IDEA, Android Studio, Git, Github
 
   
 ## Сертификаты нетологии
